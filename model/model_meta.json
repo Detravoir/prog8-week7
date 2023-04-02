@@ -1,0 +1,1 @@
+{"inputUnits":[4],"outputUnits":1,"inputs":{"storage":{"dtype":"number","min":0,"max":6},"resoloution":{"dtype":"number","min":1.4,"max":12.2},"ppi":{"dtype":"number","min":121,"max":577},"cores":{"dtype":"number","min":0,"max":8}},"outputs":{"price":{"dtype":"number","min":614,"max":4361}},"isNormalized":true}

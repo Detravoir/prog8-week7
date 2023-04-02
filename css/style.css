@@ -1,0 +1,23 @@
+body {
+  background-color: cyan;
+  color: black;
+}
+.content{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+button {
+  background-color: rgb(228, 1, 88);
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  padding: 15px 32px;
+}
+input[type="text"] {
+  padding: 6px 10px;
+  width: 20%;
+}
+#result {
+  font-size: 30px;
+}
